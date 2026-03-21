@@ -1,14 +1,18 @@
 {
-  "directories": {
-    "root": "C:\\Users\\kurtm\\Documents\\Oefening01.01",
-    "data": "data",
-    "datasubs":{
-      "Output":"Output",
-      "Input":"Source",
-      "Temp":"Temp"
-      },
-    "notebooks": "notebooks",
-    "src": "src",
-    "output": "output"
+  "Directories": {
+    "Root": "C:\\Users\\kurtm\\Documents\\Oefening01.01",
+    "Data": "data",
+    "Output":"Output",
+    "Input":"Source",
+    "Temp":"Temp",
+    "Notebooks": "notebooks",
+    "Src": "src"
+  },
+  "Files": {
+    "RestFile":"Grouped.xlsx"
+  },
+  "Decisions":{
+    "Wrong Date":"volgende_geldige_datum"
   }
+
 }
