@@ -1,0 +1,38 @@
+# Data volledig negeren
+data/
+
+# (optioneel) maar structuur behouden (lege mappen)
+!data/
+!data/.gitkeep
+!data/Source/
+!data/Source/.gitkeep
+!data/Temp/.gitkeep
+!data/Output/.gitkeep
+
+# Virtual Environment
+venv/
+env/
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS bestanden
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.csv

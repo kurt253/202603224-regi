@@ -1,0 +1,14 @@
+{
+  "directories": {
+    "root": "C:\\Users\\kurtm\\Documents\\Oefening01.01",
+    "data": "data",
+    "datasubs":{
+      "Output":"Output",
+      "Input":"Source",
+      "Temp":"Temp"
+      },
+    "notebooks": "notebooks",
+    "src": "src",
+    "output": "output"
+  }
+}
