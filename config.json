@@ -13,6 +13,22 @@
   },
   "Decisions":{
     "Wrong Date":"volgende_geldige_datum"
-  }
+  },
 
+  "Plot": {
+        "kleuren": {
+            "primair":    "#4C72B0",
+            "secundair":  "#DD8452",
+            "groen":      "#55A868",
+            "rood":       "#C44E52",
+            "paars":      "#8172B3",
+            "bruin":      "#937860",
+            "roze":       "#DA8BC3",
+            "grijs":      "#8C8C8C",
+            "geel":       "#CCB974",
+            "lichtblauw": "#64B5CD"
+        }
+
+        
+    }
 }
